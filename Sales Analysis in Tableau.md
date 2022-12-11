@@ -39,16 +39,8 @@ Main tables are as follow:
      
   <h6> Markets:<h6> 
       
-      <img width="132" alt="markettable" src="https://user-images.githubusercontent.com/25719763/122909678-4a066980-d30a-11eb-85ff-08a0efa5e14d.png">
+ <img width="132" alt="markettable" src="https://user-images.githubusercontent.com/25719763/122909678-4a066980-d30a-11eb-85ff-08a0efa5e14d.png">
       
-
-
-     
-     
-     
-     
-
-
   <h4>Data Model<h4>
 <img width="402" alt="Datamodel" src="https://user-images.githubusercontent.com/25719763/122900945-f2fc9680-d301-11eb-8385-3adc4d5566d8.png">
 
