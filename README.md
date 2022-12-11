@@ -31,10 +31,11 @@ Tools and language: Tableau, python, SQL
     <h3>Tableau</h3>
  - [Sales Analysis in Tableau](https://github.com/hirariaz01/Portfolio/blob/main/Sales%20Analysis%20in%20Tableau.md)
      Analysis of sales datasets of different cities in united states and building dashboard in tableau
-   <img width="677" alt="Dashboard" src="https://user-images.githubusercontent.com/25719763/123811028-be5f8080-d8a7-11eb-85fa-fbf0b4d55568.png"> 
+   [<img width="677" alt="Dashboard" src="https://user-images.githubusercontent.com/25719763/122912317-0eb96a00-d30d-11eb-85af-8d7045676d1d.png">](https://public.tableau.com/app/profile/hira3076/viz/SalesAnalysis_16703234308750/SalesDashboard)
+   
  - [Crime Analysis in Tableau](https://public.tableau.com/app/profile/hira3076/viz/ChicagoCrimeAnalysis_16703239413220/Dashboard1)
      Analysis of crime recorded in different areas of chicago and building dashboard in tableau
-     [<img width="800"  alt="Crime dashboard" src="https://user-images.githubusercontent.com/25719763/123544525-81a95300-d708-11eb-8716-cc8c5751aa30.png">](https://public.tableau.com/app/profile/hira3076/viz/ChicagoCrimeAnalysis_16703239413220/Dashboard1)
+     [<img width="677"  alt="Crime dashboard" src="https://user-images.githubusercontent.com/25719763/123544525-81a95300-d708-11eb-8716-cc8c5751aa30.png">](https://public.tableau.com/app/profile/hira3076/viz/ChicagoCrimeAnalysis_16703239413220/Dashboard1)
 
    
 
