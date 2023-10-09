@@ -48,6 +48,6 @@ Main tables are as follow:
 
 **Click the picture below to open the dashboard and try it out!**   
 
- [<img width="800" alt="Dashboard" src="https://user-images.githubusercontent.com/25719763/122912317-0eb96a00-d30d-11eb-85af-8d7045676d1d.png">](https://public.tableau.com/app/profile/hira3076/viz/SalesAnalysis_16703234308750/SalesDashboard)
+ [<img width="800" alt="Dashboard" src="https://user-images.githubusercontent.com/25719763/122912317-0eb96a00-d30d-11eb-85af-8d7045676d1d.png">](https://public.tableau.com/app/profile/hira3076/viz/SalesAnalysis_16968619341950/SalesDashboard)
 
 
