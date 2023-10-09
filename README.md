@@ -31,7 +31,7 @@ Tools and language: Tableau, python, SQL
     <h3>Tableau</h3>
  - [Sales Analysis in Tableau](https://github.com/hirariaz01/Portfolio/blob/main/Sales%20Analysis%20in%20Tableau.md)
      Analysis of sales datasets of different cities in united states and building dashboard in tableau
-   [<img width="677" alt="Dashboard" src="https://user-images.githubusercontent.com/25719763/122912317-0eb96a00-d30d-11eb-85af-8d7045676d1d.png">](https://public.tableau.com/app/profile/hira3076/viz/SalesAnalysis_16703234308750/SalesDashboard)
+   [<img width="677" alt="Dashboard" src="https://user-images.githubusercontent.com/25719763/122912317-0eb96a00-d30d-11eb-85af-8d7045676d1d.png">](https://public.tableau.com/app/profile/hira3076/viz/SalesAnalysis_16968619341950/SalesDashboard)
    
  - [Crime Analysis in Tableau](https://public.tableau.com/app/profile/hira3076/viz/ChicagoCrimeAnalysis_16703239413220/Dashboard1)
      Analysis of crime recorded in different areas of chicago and building dashboard in tableau
