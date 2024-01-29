@@ -38,6 +38,6 @@ Main tables are as follow:
 **Click the picture below to open the dashboard and try it out!**   
 
 
- [<img width="800"  alt="Crime dashboard" src="https://user-images.githubusercontent.com/25719763/123544525-81a95300-d708-11eb-8716-cc8c5751aa30.png">](https://public.tableau.com/app/profile/hira3076/viz/ChicagoCrimeAnalysis_16703239413220/Dashboard1)
+ [<img width="800"  alt="Crime dashboard" src="https://user-images.githubusercontent.com/25719763/123544525-81a95300-d708-11eb-8716-cc8c5751aa30.png">](https://public.tableau.com/app/profile/hira3076/viz/ChicagoCrimeAnalysis_17065401411470/Dashboard1)
 
 
