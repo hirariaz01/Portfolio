@@ -8,13 +8,13 @@ Tools and language: Tableau, python, SQL
  
  <h3>Python</h3>
  
-  - [Walt Disney Movies Analysis:](https://github.com/hirariaz01/Portfolio/tree/main/Walt-Disney-Movies-Analysis)
+  - [Walt Disney Movies Analysis:](https://github.com/hirariaz01/Portfolio/tree/main/Walt%20Disney%20Movies%20Analysis)
    Libraries Used:Numpy,Pandas,Requests,BeautifulSoup,Seaborn.<br>
    This Project is an end-to-end project for Walt Disney Movies. Using Webscrapping and API to collect movie data, then data cleaning and lastly Exploratory Data Analysis of Walt Disney Movies. 
    
    <img width="677" alt="disney3" src="https://user-images.githubusercontent.com/25719763/127664753-333ef8f6-5af5-416f-a80b-43237ab76fe8.png">
  
-  - [Stock Market Analysis:](https://github.com/hirariaz01/Portfolio/blob/main/StockMarketAnalysis.ipynb)
+  - [Stock Market Analysis:](https://github.com/hirariaz01/Portfolio/blob/main/Stock-Market-Analysis.ipynb)
    Libraries Used:Numpy,Pandas,YFinance,Requests,BeautifulSoup,Plotly.<br>
    Analysis of revenue and share price of Tesla and Gamestop using Yfinance to get the share price and webscraping to get the revenue.After datacollection and data cleaning     stock market analysis was done using plotly.
     
@@ -23,14 +23,14 @@ Tools and language: Tableau, python, SQL
  
     
     <h3>SQL</h3>
-  - [Instagram Analysis](https://github.com/hirariaz01/Portfolio/blob/main/Instagram%20Analysis.sql)
+  - [Instagram Analysis Using SQL](https://github.com/hirariaz01/Portfolio/blob/main/Instagram%20Analysis%20Using%20SQL%20.sql)
       This file contains sql queries for instagram analysis.<br>
-  - [Global Covid Analysis](https://github.com/hirariaz01/Portfolio/blob/main/Global%20Covid%20Analysis%20in%20SQL.sql)
+  - [Global Covid Analysis Using SQL](https://github.com/hirariaz01/Portfolio/blob/main/Global%20Covid%20Analysis%20Using%20SQL.sql)
       This file contains sql queries for global covid analysis for deaths,vaccinated and infected people in each country.
     
     <h3>Tableau</h3>
- - [Sales Analysis in Tableau](https://github.com/hirariaz01/Portfolio/blob/main/Sales%20Analysis%20in%20Tableau.md)
-     Analysis of sales datasets of different cities in united states and building dashboard in tableau
+ - [Sales Overview Dashboard in Tableau](https://github.com/hirariaz01/Portfolio/blob/main/Sales%20Overview%20Dashboard%20in%20Tableau.md)
+     Analysis of profit and revenue of different cities in united states and building dashboard in tableau
    
    [<img width="677" alt="Dashboard" src="https://user-images.githubusercontent.com/25719763/122912317-0eb96a00-d30d-11eb-85af-8d7045676d1d.png">](https://public.tableau.com/app/profile/hira3076/viz/SalesAnalysis_16968619341950/SalesDashboard)
    
