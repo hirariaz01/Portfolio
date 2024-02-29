@@ -1,5 +1,5 @@
 ---
-# Sales Overview Dashboard(Revenue VS Profit)
+# Sales Overview Dashboard(Revenue and Profit)
 ---
 
 <h3>Business Request & User Stories:</h3>    
