@@ -16,7 +16,7 @@ The business request for this data analyst project was an executive sales report
 An Automated dashboard providing quick and latest sales insight in order to spport data driven decision making.
 
 <h3>Data Discovery and Model:</h3>
-The data scource was provided in sql file(as the data was stored in database) and was connected in a data model in the later step of process.
+The data source was provided in sql file(as the data was stored in database) and was connected in a data model in the later step of process.
 
 The dataset consisted of four year(2017,2018,2019,2020)transaction details of different UnitedStates cities.
 Main tables are as follow:
