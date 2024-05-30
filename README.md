@@ -8,11 +8,9 @@ Tools and language: Tableau, python, SQL
  
  <h3>Python</h3>
  
-  - [Walt Disney Movies Analysis:](https://github.com/hirariaz01/Portfolio/tree/main/Walt%20Disney%20Movies%20Analysis)
-   Libraries Used:Numpy,Pandas,Requests,BeautifulSoup,Seaborn.<br>
-   This Project is an end-to-end project for Walt Disney Movies. Using Webscrapping and API to collect movie data, then data cleaning and lastly Exploratory Data Analysis of Walt Disney Movies. 
-   
-   <img width="677" alt="disney3" src="https://user-images.githubusercontent.com/25719763/127664753-333ef8f6-5af5-416f-a80b-43237ab76fe8.png">
+  - [Predicting Loan Repayment:](https://github.com/hirariaz01/Portfolio/blob/main/loan-prediction.ipynb)
+    Libraries Used:NumPy,Pandas,Matplotlib,Seaborn,Scikit-learn,Plotly. <br>
+    This project focuses on predicting whether customers will repay their loans using various machine learning algorithms including logistic regression, decision tree, random forest,support vector classifier (SVC), and k-nearest neighbors (KNN).
  
   - [Stock Market Analysis:](https://github.com/hirariaz01/Portfolio/blob/main/Stock-Market-Analysis.ipynb)
    Libraries Used:Numpy,Pandas,YFinance,Requests,BeautifulSoup,Plotly.<br>
