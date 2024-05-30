@@ -6,7 +6,7 @@ Tools and language: Tableau, python, SQL
 
 <h2>Content</h2>
  
- <h3>Python</h3>
+   <h3>Python</h3>
  
   - [Predicting Loan Repayment:](https://github.com/hirariaz01/Portfolio/blob/main/loan-prediction.ipynb)
     Libraries Used:NumPy,Pandas,Matplotlib,Seaborn,Scikit-learn,Plotly. <br>
