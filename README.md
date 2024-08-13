@@ -1,4 +1,4 @@
-# Portfolio
+
 
 Welcome to my GitHub repository, where I showcase my journey and projects in the field of data science. I have a strong background in Machine Learning, Data Analysis, and Predictive Analytics, complemented by expertise in SQL for efficient data manipulation and Tableau for compelling data visualizations. Presented in the form of SQL, Python Jupyter Notebooks, and  markdown files. 
 
@@ -7,6 +7,11 @@ Tools and language: Tableau, python, SQL
 <h2>Content</h2>
  
    <h3>Python</h3>
+
+   - [NLP-Driven Claim Classification in TikTok Content](https://github.com/hirariaz01/Portfolio/blob/main/TikTok_project.ipynb)
+    Libraries Used:NumPy,Pandas,Matplotlib,Seaborn,Scikit-learn,xgboost <br>
+    Developed NLP-based model to analyze TikTok video transcriptions by converting text data into numerical features using n-gram tokenization and CountVectorizer. Built and optimized Random Forest and XGBoost models, achieving a recall score of 99.5% through
+hyperparameter tuning
  
   - [Predicting Loan Repayment:](https://github.com/hirariaz01/Portfolio/blob/main/loan-prediction.ipynb)
     Libraries Used:NumPy,Pandas,Matplotlib,Seaborn,Scikit-learn,Plotly. <br>
