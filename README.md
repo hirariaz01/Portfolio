@@ -1,6 +1,6 @@
 # Portfolio
 
-This repository is mainly for highlighting my skills which I have learnt by working on some projects for Data Mining,Wrangling and Visualization. Presented in the form of SQL, Python Jupyter Notebooks, and  markdown files. 
+Welcome to my GitHub repository, where I showcase my journey and projects in the field of data science. I have a strong background in Machine Learning, Data Analysis, and Predictive Analytics, complemented by expertise in SQL for efficient data manipulation and Tableau for compelling data visualizations. Presented in the form of SQL, Python Jupyter Notebooks, and  markdown files. 
 
 Tools and language: Tableau, python, SQL
 
