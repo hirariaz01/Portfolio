@@ -8,7 +8,7 @@ Tools and language: Tableau, python, SQL
  
    <h3>Python</h3>
 
-   - [NLP-Driven Claim Classification in TikTok Content](https://github.com/hirariaz01/Portfolio/blob/main/TikTok_project.ipynb)
+   - [NLP-Driven Claim Classification in TikTok Content](https://github.com/hirariaz01/Portfolio/blob/main/NLP_Driven_Claim_Classification_in_TikTok_Content%20(1).ipynb)
     Libraries Used:NumPy,Pandas,Matplotlib,Seaborn,Scikit-learn,xgboost <br>
     Developed NLP-based model to analyze TikTok video transcriptions by converting text data into numerical features using n-gram tokenization and CountVectorizer. Built and optimized Random Forest and XGBoost models, achieving a recall score of 99.5% through
 hyperparameter tuning
